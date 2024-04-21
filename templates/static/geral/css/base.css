@@ -1,0 +1,17 @@
+:root{
+    --main-color: rgb(55, 218, 52);
+    --dark-color: #0abe07;
+    --contrast-color: #08f693;
+}
+
+.bg-color-dark{
+    background-color: var(--main-color);
+}
+
+.p-bold{
+    font-weight: bold;
+}
+
+.color-dark{
+    color: var(--dark-color);
+}
